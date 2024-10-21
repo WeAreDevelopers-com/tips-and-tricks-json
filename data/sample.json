@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "Luca Rossi",
+    "age": 34,
+    "email": "luca.rossi@example.it",
+    "address": {
+      "street": "Via Roma 123",
+      "city": "Milan",
+      "postalCode": "20121",
+      "country": "Italy"
+    },
+    "hobbies": ["football", "cooking", "traveling"],
+    "transactions": [
+      {
+        "date": "2023-01-15",
+        "amount": 120.75,
+        "description": "Grocery Shopping"
+      },
+      {
+        "date": "2023-02-22",
+        "amount": 305.4,
+        "description": "New Laptop"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sophie Dubois",
+    "age": 28,
+    "email": "sophie.dubois@example.fr",
+    "address": {
+      "street": "14 Rue de Rivoli",
+      "city": "Paris",
+      "postalCode": "75004",
+      "country": "France"
+    },
+    "hobbies": ["photography", "running", "painting"],
+    "transactions": [
+      {
+        "date": "2023-03-01",
+        "amount": 85.3,
+        "description": "Art Supplies"
+      },
+      {
+        "date": "2023-04-12",
+        "amount": 180.6,
+        "description": "Concert Tickets"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hans Müller",
+    "age": 45,
+    "email": "hans.mueller@example.de",
+    "address": {
+      "street": "Brandenburger Str. 24",
+      "city": "Berlin",
+      "postalCode": "10117",
+      "country": "Germany"
+    },
+    "hobbies": ["cycling", "beer brewing", "hiking"],
+    "transactions": [
+      {
+        "date": "2023-01-30",
+        "amount": 65.9,
+        "description": "Bike Maintenance"
+      },
+      {
+        "date": "2023-02-19",
+        "amount": 275.0,
+        "description": "Weekend Getaway"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Isabella Silva",
+    "age": 39,
+    "email": "isabella.silva@example.pt",
+    "address": {
+      "street": "Avenida da Liberdade 85",
+      "city": "Lisbon",
+      "postalCode": "1250-140",
+      "country": "Portugal"
+    },
+    "hobbies": ["surfing", "yoga", "gardening"],
+    "transactions": [
+      {
+        "date": "2023-03-10",
+        "amount": 95.5,
+        "description": "Yoga Classes"
+      },
+      {
+        "date": "2023-04-05",
+        "amount": 400.2,
+        "description": "New Surfboard"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Anna Nowak",
+    "age": 31,
+    "email": "anna.nowak@example.pl",
+    "address": {
+      "street": "Ulica Krakowska 34",
+      "city": "Warsaw",
+      "postalCode": "00-001",
+      "country": "Poland"
+    },
+    "hobbies": ["tennis", "knitting", "reading"],
+    "transactions": [
+      {
+        "date": "2023-02-15",
+        "amount": 110.2,
+        "description": "Tennis Racket"
+      },
+      {
+        "date": "2023-03-22",
+        "amount": 65.8,
+        "description": "Books Purchase"
+      }
+    ]
+  }
+]
